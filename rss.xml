@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Write Now]]></title>
+        <description><![CDATA[Write Now]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 21:25:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Information chunking ]]></title>
+            <description><![CDATA[<article><h1>Information chunking </h1><p>If there's one skill that I've always been able to fall back on in life, it's writing. It's a learned skill, taught to me not by my many years of schooling, but my father.</p></article>]]></description>
+            <link>undefinedinformation-chunking/index.html</link>
+            <guid isPermaLink="false">aa03bcef-aeaf-43ea-a798-16077075d38e</guid>
+            <pubDate>Thu, 31 Mar 2016 21:25:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
